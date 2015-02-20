@@ -3,17 +3,29 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Daintree Rainforest Observatory
 subtitle:
 description:
-author: John Doe
-email:
+author: Daniel Baird
+email: daniel@danielbaird.com
 language:
+
+
+data:
+  menu:
+    Home: /
+    'The Daintree': /daintree
+    'The Observatory': /observatory
+    'Research': /research
+    'Education': /education
+  ## un-comment this to show a homepage from that page, or something
+  # homepage: main
+
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: http://danielbaird.com/dro-example/
+root: /dro-example/
 permalink: :year/:month/:day/:title/
 tag_dir: tags
 archive_dir: archives
@@ -30,7 +42,7 @@ new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
-filename_case: 0
+filename_case: 1
 render_drafts: false
 post_asset_folder: false
 relative_link: false
@@ -65,7 +77,7 @@ logger_format: dev
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: MMM D YYYY
+date_format: D MMM YYYY
 time_format: H:mm:ss
 
 # Pagination
@@ -79,10 +91,15 @@ disqus_shortname:
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
-theme: landscape
+theme: dro
 exclude_generator:
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: github
+  repo: https://github.com/DanielBaird/dro-example.git
+  branch: gh-pages
+  message: "Updated by hexo: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+
+
