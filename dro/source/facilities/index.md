@@ -14,4 +14,4 @@ May include some safety info from http://www.jcu.edu.au/canopycrane/informationf
 alternative titles | Amenities; Amenities and accommodation
 targets | R1, SI1, TI1, CG1
 parent | <a href="../the-observatory">The Observatory</a>
-children |
+children | none
