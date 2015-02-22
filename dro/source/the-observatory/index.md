@@ -17,4 +17,4 @@ links to Research>Booking page and Curriculum>Planning-a-trip pages so people wh
 alternative titles | The Facility
 targets | R1, SI1 & SIB, TI1, CG1
 parent | <a href="../">The Home Page</a>
-children | <a href="../facilities">Facilities</a>, <a href="../data-collection">Data Collection</a>, <a href="../canopy-crane">Canopy Crane</a>, <a href="../environmental-impact">Environmental Impact</a>, <a href="../Safety">Safety</a>
+children | <a href="../facilities">Facilities</a>, <a href="../data-collection">Data Collection</a>, <a href="../canopy-crane">Canopy Crane</a>, <a href="../environmental-impact">Environmental Impact</a>, <a href="../safety">Safety</a>

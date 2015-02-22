@@ -23,4 +23,4 @@ The footer used everywhere will include links to all major and minor pages (and 
 alternative titles | -
 targets | everyone
 parent | -
-children | <a href="../the-daintree">The Daintree</a>, <a href="../the-observattory">The Observatory</a>, <a href="../research">Research</a>, <a href="../education">Education</a>
+children | <a href="../the-daintree">The Daintree</a>, <a href="../the-observatory">The Observatory</a>, <a href="../research">Research</a>, <a href="../education">Education</a>
