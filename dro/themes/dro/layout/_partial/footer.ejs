@@ -3,9 +3,57 @@
     <%- partial('_partial/sidebar') %>
   <% } %>
   <div class="outer">
+    <div class="inner" style="
+      display: -webkit-flex;
+      display: flex;
+      -webkit-align-items: center;
+      align-items: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-align-items: baseline;
+      align-items: baseline;
+    ">
+      <ul style="padding: 1em">
+        <li style="font-size: 150%"><a href="<%- url_for('the-daintree') %>">The Daintree</a></li>
+      </ul>
+      <ul style="padding: 1em">
+        <li style="font-size: 150%"><a href="<%- url_for('the-observatory') %>">The Observatory</a></li>
+
+        <li><a href="<%- url_for('facilities') %>">Facilities</a></li>
+        <li><a href="<%- url_for('data-collection') %>">Data Collection</a></li>
+        <li><a href="<%- url_for('canopy-crane') %>">Canopy Crane</a></li>
+        <li><a href="<%- url_for('environmental-impact') %>">Environmental Impact</a></li>
+        <li><a href="<%- url_for('safety') %>">Safety</a></li>
+      </ul>
+
+      <ul style="padding: 1em">
+        <li style="font-size: 150%"><a href="<%- url_for('research') %>">Research</a></li>
+
+        <li><a href="<%- url_for('../booking-a-visit') %>">Booking a Visit</a></li>
+        <li><a href="<%- url_for('../forms-and-procedures') %>">Forms and Procedures</a></li>
+      </ul>
+
+      <ul style="padding: 1em">
+        <li style="font-size: 150%"><a href="<%- url_for('education') %>">Education</a></li>
+        <li><a href="<%- url_for('booking-a-school-trip') %>">Booking a School Trip</a></li>
+        <li><a href="<%- url_for('budgeting-a-school-trip') %>">Budgeting a School Trip</a></li>
+        <li><a href="<%- url_for('curriculum-position') %>">Curriciulum Position</a></li>
+        <li><a href="<%- url_for('resources') %>">Resources</a></li>
+      </ul>
+
+      <ul style="padding: 1em">
+        <li style="font-size: 150%">Further Information</li>
+        <li><a href="<%- url_for('visiting-the-observatory') %>">Visiting the Observatory</a></li>
+        <li><a href="<%- url_for('collaborations') %>">Collaborations</a></li>
+        <li><a href="<%- url_for('volunteering') %>">Volunteering</a></li>
+        <li><a href="<%- url_for('observatory-cameras') %>">Observatory Cameras</a></li>
+      </ul>
+
+    </div>
+  </div>
+  <div class="outer">
     <div id="footer-info" class="inner">
-      &copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %><br>
-      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+      &copy; <%= date(new Date(), 'YYYY') %>
     </div>
   </div>
 </footer>

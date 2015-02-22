@@ -18,7 +18,7 @@ data:
     'The Observatory': /the-observatory
     'Research': /research
     'Education': /education
-  ## un-comment this to show a homepage from that page, or something
+  # show a homepage from that page, or something
   homepage: daintree-rainforest-observatory
 
 
