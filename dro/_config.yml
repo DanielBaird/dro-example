@@ -14,12 +14,12 @@ language:
 data:
   menu:
     Home: /
-    'The Daintree': /daintree
-    'The Observatory': /observatory
+    'The Daintree': /the-daintree
+    'The Observatory': /the-observatory
     'Research': /research
     'Education': /education
   ## un-comment this to show a homepage from that page, or something
-  # homepage: main
+  homepage: daintree-rainforest-observatory
 
 
 # URL
@@ -39,7 +39,7 @@ public_dir: public
 
 # Writing
 new_post_name: :title.md # File name of new posts
-default_layout: post
+default_layout: page
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 1
@@ -93,6 +93,7 @@ disqus_shortname:
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
 theme: dro
 exclude_generator:
+- index
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
