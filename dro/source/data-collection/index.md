@@ -17,7 +17,7 @@ links to sensor-data-visualisation page that Daniel is making.
 links to some kind of data collection reference in TDH/Redbox or whatever?
 
 
- notes | ...
+notes | ...
 -------|-----
 alternative titles | Sensors; Rainforest Sensing; Sensor Data Collection; Instrumentation
 targets | R0, R1, R3, SI0, SI1, TI1, TS0, TS1, PG, PP, CG1

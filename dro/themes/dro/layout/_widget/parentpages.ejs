@@ -3,7 +3,7 @@
     <h3 class="widget-title">Up to</h3>
     <div class="widget">
       <ul>
-      <% for (parent in page.parents) { %>
+      <% for (var parent in page.parents) { %>
         <li><a href="<%= page.parents[parent] %>"><%= parent %></a></li>
       <% } %>
       </ul>

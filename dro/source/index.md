@@ -1,14 +1,14 @@
 title: (home page)
 date: 2015-02-20 16:53:45
 children:
-  'The Daintree': the-daintree
-  'The Observatory': the-observatory
-  'Research': research
-  'Education': education
-  'Visiting the Observatory': visiting-the-observatory
-  'Collaborations': collaborations
-  'Volunteering': volunteering
-  'Observatory Cameras': observatory-cameras
+  'The Daintree': ./the-daintree
+  'The Observatory': ./the-observatory
+  'Research': ./research
+  'Education': ./education
+  'Visiting the Observatory': ./visiting-the-observatory
+  'Collaborations': ./collaborations
+  'Volunteering': ./volunteering
+  'Observatory Cameras': ./observatory-cameras
 ---
 
 contains a paragraph or two plus photos describing the utility of the DRO for the two themes, FW Research and Education Experience.
@@ -27,7 +27,7 @@ Include in-content links to all the major pages.
 The footer used everywhere will include links to all major and minor pages (and possibly is actually a sort of sitemap with links to every subpage as well).
 
 
- notes | ...
+notes | ...
 -------|-----
 alternative titles | -
 targets | everyone

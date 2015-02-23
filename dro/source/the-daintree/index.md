@@ -18,7 +18,7 @@ Goal of this page is to help potential researchers work out if this location has
 
 Ideally one photo on this page shows the golf course with someone swinging a club.  No need to mention it in the text..
 
- notes | ...
+notes | ...
 -------|-----
 alternative titles | The Location; The Rainforest; The Setting
 targets | everyone esp R1, SI1, TI1 and KP, PG

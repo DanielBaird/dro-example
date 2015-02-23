@@ -21,7 +21,7 @@ include the precise location (16&deg; 06' 14.8" S, 145&deg; 26' 58.0" E for the 
 links to Research>Booking page and Curriculum>Planning-a-trip pages so people who like it can open their chequebooks right away.
 
 
- notes | ...
+notes | ...
 -------|-----
 alternative titles | The Facility
 targets | R1, SI1 & SIB, TI1, CG1

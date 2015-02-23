@@ -6,7 +6,7 @@ parents:
 
 info justifying how a DRO trip serves Australian and international curriculum purposes
 
- notes | ...
+notes | ...
 -------|-----
 alternative titles | todo
 targets | todo

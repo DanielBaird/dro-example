@@ -9,7 +9,7 @@ describes the crane with content from http://www.jcu.edu.au/canopycrane/about/JC
 May include some safety info from http://www.jcu.edu.au/canopycrane/informationfor/JCUPRD_050294.html if we don’t want a separate safety page; otherwise links to safety page
 
 
- notes | ...
+notes | ...
 -------|-----
 alternative titles | -
 targets | R1, PP, CG1

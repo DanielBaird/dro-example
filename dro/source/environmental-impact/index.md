@@ -6,7 +6,7 @@ parents:
 
 content from http://www.jcu.edu.au/canopycrane/about/JCUPRD_046920.html
 
- notes | ...
+notes | ...
 -------|-----
 alternative titles | -
 targets | everyone

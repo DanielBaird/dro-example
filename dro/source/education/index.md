@@ -11,7 +11,7 @@ children:
 
 has links to the sensor viz and photo pages
 
-Not sure what else needs to go here.
+mention travel times from cairns, townsville, some local towns
 
 notes | ...
 ------|-----

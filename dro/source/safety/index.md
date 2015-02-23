@@ -6,7 +6,7 @@ parents:
 
 Not sure if this page needs to exist.  If it does, it includes http://www.jcu.edu.au/canopycrane/informationfor/JCUPRD_050294.html
 
- notes | ...
+notes | ...
 -------|-----
 alternative titles | -
 targets | \*1, \*2 (potential and current visitors)

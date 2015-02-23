@@ -6,7 +6,7 @@ parents:
 
 a booking form / email contact / whatever.  maybe this can include a calendar showing booked-out times?
 
- notes | ...
+notes | ...
 -------|-----
 alternative titles | todo
 targets | todo

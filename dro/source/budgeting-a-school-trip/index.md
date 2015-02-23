@@ -6,7 +6,7 @@ parents:
 
 info for costs associated with a trip: DRO fees, contact numbers for buses, etc
 
- notes | ...
+notes | ...
 -------|-----
 alternative titles | todo
 targets | todo
