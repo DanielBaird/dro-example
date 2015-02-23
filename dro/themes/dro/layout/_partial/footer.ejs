@@ -2,22 +2,41 @@
   <% if (theme.sidebar === 'bottom'){ %>
     <%- partial('_partial/sidebar') %>
   <% } %>
+  <style>
+  .footercolumns {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-align-items: baseline;
+    align-items: baseline;
+  }
+  .footercolumns > ul {
+    padding: 1em;
+    -webkit-flex: 1 1 0%;
+    flex: 1 1 0%;
+  }
+  .footercolumns > ul li {
+    padding: 0.1em 0;
+  }
+  .footercolumns > ul li:first-of-type {
+    /*font-size: 125%;*/
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-bottom: 1px solid rgba(37,143,184, 0.25);
+    padding-bottom: 0.6em;
+    margin-bottom: 0.6em;
+  }
+  </style>
   <div class="outer">
-    <div class="inner" style="
-      display: -webkit-flex;
-      display: flex;
-      -webkit-align-items: center;
-      align-items: center;
-      -webkit-justify-content: center;
-      justify-content: center;
-      -webkit-align-items: baseline;
-      align-items: baseline;
-    ">
-      <ul style="padding: 1em">
-        <li style="font-size: 150%"><a href="<%- url_for('the-daintree') %>">The Daintree</a></li>
+    <div class="inner footercolumns">
+      <ul>
+        <li><a href="<%- url_for('the-daintree') %>">The Daintree</a></li>
       </ul>
-      <ul style="padding: 1em">
-        <li style="font-size: 150%"><a href="<%- url_for('the-observatory') %>">The Observatory</a></li>
+      <ul>
+        <li><a href="<%- url_for('the-observatory') %>">The Observatory</a></li>
 
         <li><a href="<%- url_for('facilities') %>">Facilities</a></li>
         <li><a href="<%- url_for('data-collection') %>">Data Collection</a></li>
@@ -26,23 +45,23 @@
         <li><a href="<%- url_for('safety') %>">Safety</a></li>
       </ul>
 
-      <ul style="padding: 1em">
-        <li style="font-size: 150%"><a href="<%- url_for('research') %>">Research</a></li>
+      <ul>
+        <li><a href="<%- url_for('research') %>">Research</a></li>
 
         <li><a href="<%- url_for('../booking-a-visit') %>">Booking a Visit</a></li>
         <li><a href="<%- url_for('../forms-and-procedures') %>">Forms and Procedures</a></li>
       </ul>
 
-      <ul style="padding: 1em">
-        <li style="font-size: 150%"><a href="<%- url_for('education') %>">Education</a></li>
+      <ul>
+        <li><a href="<%- url_for('education') %>">Education</a></li>
         <li><a href="<%- url_for('booking-a-school-trip') %>">Booking a School Trip</a></li>
         <li><a href="<%- url_for('budgeting-a-school-trip') %>">Budgeting a School Trip</a></li>
         <li><a href="<%- url_for('curriculum-position') %>">Curriciulum Position</a></li>
         <li><a href="<%- url_for('resources') %>">Resources</a></li>
       </ul>
 
-      <ul style="padding: 1em">
-        <li style="font-size: 150%">Further Information</li>
+      <ul>
+        <li>More Information</li>
         <li><a href="<%- url_for('visiting-the-observatory') %>">Visiting the Observatory</a></li>
         <li><a href="<%- url_for('collaborations') %>">Collaborations</a></li>
         <li><a href="<%- url_for('volunteering') %>">Volunteering</a></li>
