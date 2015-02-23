@@ -1,0 +1,12 @@
+<% if (page.children) { %>
+  <div class="widget-wrap">
+  <h3 class="widget-title">More about <%= page.title %></h3>
+    <div class="widget">
+      <ul>
+      <% for (child in page.children) { %>
+        <li><a href="<%= page.children[child] %>"><%= child %></a></li>
+      <% } %>
+      </ul>
+    </div>
+  </div>
+<% } %>

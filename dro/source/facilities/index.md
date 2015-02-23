@@ -1,5 +1,7 @@
 title: Facilities
 date: 2015-02-22 14:01:55
+parents:
+  'The Observatory': ../the-observatory
 ---
 content describes the site facilities in detail:
 - constraints on visitors e.g. are guide dogs allowed?
@@ -15,5 +17,3 @@ May include some safety info from http://www.jcu.edu.au/canopycrane/informationf
 -------|-----
 alternative titles | Amenities; Amenities and accommodation
 targets | R1, SI1, TI1, CG1
-parent | <a href="../the-observatory">The Observatory</a>
-children | none

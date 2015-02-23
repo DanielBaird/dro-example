@@ -1,5 +1,7 @@
 title: The Daintree
 date: 2015-02-20 16:49:11
+parents:
+  Home: ../
 ---
 
 content describes the rainforest and surrounding landscape, flora & fauna, etc; e.g. content from:

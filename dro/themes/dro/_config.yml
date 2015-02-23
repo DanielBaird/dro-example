@@ -11,7 +11,9 @@ fancybox: true
 # Sidebar
 sidebar: right
 widgets:
-- category
+- parentpages
+- childpages
+# - category
 # - tag
 # - tagcloud
 # - archive

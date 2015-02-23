@@ -1,5 +1,11 @@
 title: Research
 date: 2015-02-20 16:53:58
+parents:
+  Home: ../
+children:
+  'Booking a Visit': ../booking-a-visit
+  'Forms and Procedures': ../forms-and-procedures
+
 ---
 
 this page has two parts: showcasing research done, and bringing in future research.
@@ -20,5 +26,3 @@ notes | ...
 ------|-----
 alternative titles | -
 targets | R0, R1
-parent | <a href="../">The Home Page</a>
-children | <a href="../booking-a-visit">Booking a Visit</a>, <a href="../forms-and-procedures">Forms and Procedures</a>

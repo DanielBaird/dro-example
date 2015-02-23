@@ -1,14 +1,16 @@
 title: Data Collection
 date: 2015-02-22 14:27:34
+parents:
+  'The Observatory': ../the-observatory
 ---
 
 first para mentions photo streams, links to that page.
 
 content describes the sensors reporting data.  includes e.g. a table such as:
 
-sensor | What it looks like | Description
---- | --- | ---
-Soil Moisture Sensor | {picture of it} | The observatory includes 15 soil moisture sensor installations, each measuring soil moisture levels every five minutes, at five depths from 500mm to 1500mm below ground level.
+sensor | Description
+--- | ---
+Soil Moisture Sensor <img style="width:100px" src="/dro-example/images/soil-moisture-pit.jpg" /> | The observatory includes 15 soil moisture sensor installations, each measuring soil moisture levels every five minutes, at five depths from 500mm to 1500mm below ground level.
 
 links to sensor-data-visualisation page that Daniel is making.
 

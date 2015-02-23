@@ -1,5 +1,7 @@
 title: Visiting The Observatory
 date: 2015-02-22 20:48:27
+parents:
+  Home: ../
 ---
 
 general page to catch people who aren’t researchers or educators, but want to visit, e.g. conference & special interest groups, tourists, etc.
@@ -14,5 +16,3 @@ notes | ...
 ------|-----
 alternative titles | -
 targets | PG, PP, maybe R1 and SI1
-parent | <a href="../">The Home Page</a>
-children | none

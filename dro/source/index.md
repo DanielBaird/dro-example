@@ -1,5 +1,14 @@
 title: (home page)
 date: 2015-02-20 16:53:45
+children:
+  'The Daintree': the-daintree
+  'The Observatory': the-observatory
+  'Research': research
+  'Education': education
+  'Visiting the Observatory': visiting-the-observatory
+  'Collaborations': collaborations
+  'Volunteering': volunteering
+  'Observatory Cameras': observatory-cameras
 ---
 
 contains a paragraph or two plus photos describing the utility of the DRO for the two themes, FW Research and Education Experience.
@@ -22,5 +31,3 @@ The footer used everywhere will include links to all major and minor pages (and 
 -------|-----
 alternative titles | -
 targets | everyone
-parent | -
-children | <a href="../the-daintree">The Daintree</a>, <a href="../the-observatory">The Observatory</a>, <a href="../research">Research</a>, <a href="../education">Education</a>

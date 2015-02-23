@@ -1,5 +1,7 @@
 title: Volunteering
 date: 2015-02-22 20:48:47
+parents:
+  Home: ../
 ---
 
 targets: V1
@@ -9,5 +11,3 @@ notes | ...
 ------|-----
 alternative titles | -
 targets | V1
-parent | <a href="../">The Home Page</a>
-children | none
