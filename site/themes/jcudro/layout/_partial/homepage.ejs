@@ -1,0 +1,14 @@
+<% if (config.data.homepage) { %>
+
+  <script>
+  window.location.replace('<%- url_for(config.data.homepage) %>');
+  </script>
+    <x% site.pages.each( function(page) { %>
+      <x% if (page.path == config.data.homepage || page.path == ('' + config.data.homepage + '/index.html')) { %>
+        <x%- partial('_partial/article', {post: page, page: page, index: false}) %>
+      <x% } %>
+    <x% }) %>
+
+<% } else { %>
+  <%- partial('_partial/archive', {pagination: 2, index: true}) %>
+<% } %>
