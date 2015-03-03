@@ -22,6 +22,8 @@ and gondola are lowered to the desired position.
 TODO: replace this crappy jpeg with a better resolution pic.
 ![](./crane-diagram.jpg)
 
+### Operational details
+
 The canopy crane is operated by a qualified crane driver who has
 responsibility for safe operation of the crane. The operator
 therefore has authority to make decisions concerning the safe
@@ -32,7 +34,7 @@ By law a qualified Dogger must be in the gondola at all times
 during operation, therefore the crane operator drives the
 crane from the gondola using a remote control. The gondola can
 accommodate a maximum of four people, including the driver, or
-a maximum load of 300kg (660lbs). All individuals in the gondola
+a maximum load of 300kg (660lb). All individuals in the gondola
 must wear a full body harness and lanyard (attached to the
 gondola). This equipment is provided by the DRO and users will
 be briefed on fitting the harness before using the crane. There
