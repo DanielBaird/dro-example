@@ -20,6 +20,7 @@ desired. The trolley is then moved along the jib and the hook
 and gondola are lowered to the desired position.
 
 TODO: replace this crappy jpeg with a better resolution pic.
+
 ![](./crane-diagram.jpg)
 
 ### Operational details
