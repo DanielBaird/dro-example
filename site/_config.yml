@@ -21,6 +21,11 @@ data:
   # use the page below as the home page
   homepage: /the-daintree-rainforest-observatory
 
+marked:
+  gfm: true
+  tables: true
+  breaks: false
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://danielbaird.com/dro-example/
