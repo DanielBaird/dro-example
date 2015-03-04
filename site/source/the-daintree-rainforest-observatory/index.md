@@ -21,18 +21,18 @@ An open-air teaching lab is suitable for group sessions, and a
 traditional, air-conditioned laboratory is equipped to support the
 basic needs of most rainforest research.
 
-The Observatory also has a [Canopy Crane](../canopy-crane), which allows researchers
-to explore the rainforest, from the atmosphere above the canopy down
-through its different levels, and the rainforest site includes many
-data collection instruments to examine sap flow, soil condition and
-many other features.
+The Observatory also has a [Canopy Crane](../canopy-crane), which
+allows researchers to explore the rainforest, from the atmosphere
+above the canopy down through its different levels, and the
+rainforest site includes many data collection instruments to
+examine sap flow, soil condition and many other features.
 
 Find out more about:
 
 * [The Daintree rainforest and surrounding areas](../the-daintree)
 * [The Observatory site and facilities](../the-observatory)
-* [Using the Observatory for research](../research)
-* [School camps at the Observatory](../education)
+* [Conducting research at the Observatory](../research)
+* [School camps and secondary school curriculum](../education)
 
 <!-- more -->
 

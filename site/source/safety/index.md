@@ -34,7 +34,8 @@ conditions to the staff. This information is confidential and
 is requested solely for each individuals own safety.
 
 For more detailed information on the safety procedures and
-hazards for the DRO please refer to the Safety Briefing Notes.
+hazards for the DRO please refer to the
+[Safety Briefing Notes](../forms-and-procedures/#safety-briefing-notes).
 
 <!-- more -->
 
