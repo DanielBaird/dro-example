@@ -13,13 +13,13 @@ timezone:
 
 data:
   menu:
-    Home: /the-daintree-rainforest-observatory
-    'The Daintree': /the-daintree
-    'The Observatory': /the-observatory
-    'Research': /research
-    'Education': /education
+    Home: the-daintree-rainforest-observatory
+    'The Daintree': the-daintree
+    'The Observatory': the-observatory
+    'Research': research
+    'Education': education
   # use the page below as the home page
-  homepage: /the-daintree-rainforest-observatory
+  homepage: the-daintree-rainforest-observatory
 
 marked:
   gfm: true
@@ -28,7 +28,7 @@ marked:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://danielbaird.com/dro-example/
+url: http://danielbaird.com/dro-example
 root: /dro-example/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -42,6 +42,9 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+- '**/*.js'
+- '**/*.html'
+- '**/*.json'
 
 # Writing
 new_post_name: :title.md # File name of new posts
