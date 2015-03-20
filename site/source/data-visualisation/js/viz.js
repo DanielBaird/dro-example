@@ -131,5 +131,5 @@ dro.s = new Scape.Scene(dro.f, 'scape', {
 });
 
 setInterval(function() {
-    f.updateItem(crane, { rotation: craneAngle });
+    dro.f.updateItem(crane, { rotation: craneAngle });
 }, 500);
