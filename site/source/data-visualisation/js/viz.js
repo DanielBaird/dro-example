@@ -76,7 +76,6 @@ loadTrees.done( function(data) {
 			Scape.ItemTypes.tree, tree.posX, tree.posY, treeOpts
 		);
 		treeItems.push(treeItem);
-		// setTimeout(function() { dro.f.addItems([treeItem]); }, 0);
 	});
 	dro.f.addItems(treeItems);
 
@@ -131,6 +130,6 @@ dro.s = new Scape.Scene(dro.f, 'scape', {
     }
 });
 
-getInterval(function() {
+setInterval(function() {
     f.updateItem(crane, { rotation: craneAngle });
 }, 500);
