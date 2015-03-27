@@ -1,5 +1,5 @@
 
-{ "trees": [
+{ "data": [
 
 {"id": "1", "tag": "1", "oldtag": "3084", "subplot": "1/a", "species": "ID", "family": "", "posX": 6.5, "posY": 1.7, "dbh2013a": 45.7, "dbh2013b": 0, "dbh2010a": 0, "dbh2010b": "0", "height2010": 0 },
 {"id": "2", "tag": "2", "oldtag": "3085", "subplot": "1/a", "species": "ID", "family": "", "posX": 6.3, "posY": 0.45, "dbh2013a": 11.8, "dbh2013b": 0, "dbh2010a": 0, "dbh2010b": "0", "height2010": 0 },

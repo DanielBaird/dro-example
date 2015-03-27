@@ -1,0 +1,35 @@
+<html>
+<head>
+    <title>DRO Data Graph</title>
+    <style>
+        body {
+            color: #fff;
+            margin: 0;
+            padding: 30px;
+            background: #003;
+            font: 500 14px/21px 'Helvetica Neue', sans-serif;
+        }
+    </style>
+</head>
+<body>
+    Data graph for <span id="item">item</span> goes here..
+    <script>
+        var vars = {};
+        var strs = window.location.search.substring(1).split('&');
+        for (var i=0; i < strs.length; i++) {
+            var bits = strs[i].split('=');
+            console.log(bits);
+            if (bits.length > 1) {
+                vars[bits[0]] = bits[1];
+            }
+        }
+        console.log(vars);
+        if (vars.name) {
+            document.getElementById('item').innerHTML = vars.name;
+        }
+        if (vars.id) {
+            document.getElementById('item').innerHTML += ' #' + vars.id;
+        }
+    </script>
+</body>
+</html>

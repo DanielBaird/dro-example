@@ -12,7 +12,7 @@ sensor | Description
 --- | ---
 Soil Moisture Sensor <img style="width:100px" src="/dro-example/images/soil-moisture-pit.jpg" /> | The observatory includes 15 soil moisture sensor installations, each measuring soil moisture levels every five minutes, at five depths from 500mm to 1500mm below ground level.
 
-links to sensor-data-visualisation page that Daniel is making.
+links to <a href="/dro-example/data-visualisation">the data viz</a> page that Daniel is making.
 
 links to some kind of data collection reference in TDH/Redbox or whatever?
 
